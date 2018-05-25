@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Yard Simulation with OpenGL
 
-You can use the [editor on GitHub](https://github.com/DwiRama/Grafika-Komputer-Backyard.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is about my team final project on creating an outdoor scenery using OpenGL. The scene contains 4 different 3D objects with 1 object that have a simple animation. The objects are: Bush, Grass Wall, Wooden Fence, and a small Windmill. This scene also has a simple plane with a grass texture, and also use a skybox of clear sky. This project implement on creating 3D scenery using OpenGL, applying UV mapping on the object, Transforming an object.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">Edit this page</a>
 
 ```markdown
 Syntax highlighted code block
