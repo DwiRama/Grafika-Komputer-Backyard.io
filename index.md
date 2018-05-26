@@ -5,14 +5,11 @@ This page is about my team final project on creating an outdoor scenery using Op
 <br/>
 ### Video Preview of Scene
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7OnEn8LIR3w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br/>
 
-<br/>
 ### Links
 You can check out the project <a href="https://github.com/DwiRama/Grafika-Komputer-Backyard.io">here</a>
 <br/>
 
-<br/>
 ### The Team
 This project is created by a small group of people:
 - Dwi Rama Malawat: Creating Windmill, Moving, Animation & Lighting
